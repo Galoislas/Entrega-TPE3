@@ -1,6 +1,6 @@
 # Entrega-TPE3
-Galo Islas
-Bruno Bianchi
+-Galo Islas
+-Bruno Bianchi
 
 API de Comentarios
 
