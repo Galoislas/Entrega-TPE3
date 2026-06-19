@@ -1,4 +1,7 @@
 # Entrega-TPE3
+Galo Islas
+Bruno Bianchi
+
 API de Comentarios
 
 Esta API permite gestionar comentarios mediante operaciones CRUD.
